@@ -1,5 +1,9 @@
 {
   "generator-radic": {
-    "appname": "ksplashx-radic-os"
+    "appname": "ksplashx-radic-os",
+    "type": "other",
+    "generated": [
+      "project"
+    ]
   }
 }
